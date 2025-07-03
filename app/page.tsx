@@ -369,7 +369,7 @@ export default function HomePage() {
                   <div className="w-12 h-12 bg-gray-700 rounded-lg flex items-center justify-center mr-4">📧</div>
                   <div>
                     <div className="font-semibold text-white">Email</div>
-                    <div className="text-gray-300">hello@zent.ai</div>
+                    <div className="text-gray-300">contact@zent.digital</div>
                   </div>
                 </div>
 
@@ -482,7 +482,7 @@ export default function HomePage() {
             <div>
               <h3 className="font-semibold mb-4 text-white">Contact</h3>
               <ul className="space-y-2 text-gray-400">
-                <li>hello@zent.ai</li>
+                <li>contact@zent.digital</li>
                 <li>+201557512120</li>
                 <li>37 Street 9, Maadi, Cairo, Egypt</li>
               </ul>
